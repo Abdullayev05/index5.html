@@ -1,0 +1,60 @@
+* {
+   margin: 0;
+   padding: 0;
+   list-style: none;
+   text-decoration: none;
+   box-sizing: border-box;
+}
+body {
+  background-color: hsl(221, 83%, 53%);
+}
+table {
+   background-color: white;
+   margin: 200px  auto;
+   border-radius: 8px;
+}
+table tr {
+   height: 120px;
+}
+table tr th {
+   font-size: 24px;
+   font-family: "Inter";
+   text-align: left ;
+}
+.one{
+   width: 95px;
+}
+.one input {
+   height: 36px;
+   width: 36px;
+   margin: 0 auto;
+   display: block;
+}
+.two {
+   width: 280px;
+   font-size: 25px;
+}
+.three {
+   width: 222px;
+   font-size: 25px;
+}
+.four {
+   width: 210px;
+}
+img {
+   height: 42px;
+   width: 42 px;
+} 
+.image {
+   width: 100%;
+   height: 100%;
+   display: inline-block;
+}
+.two span {
+   line-height: 42px;
+   display: inline-block;
+   vertical-align: top;
+}
+.image2 {
+  display: inline-block;
+}
